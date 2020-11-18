@@ -4,31 +4,40 @@
     padding: 0;
 }
 
-html{
-    scroll-behavior: smooth;
-    
-}
-
-body{
-    font-size: 16px;
-    color: #FFF;
-    
-    
-}
 
 
-.card{
-    width: 120px ;
-    height:auto;
-/*    margin: 1px;*/
-    border: 1px solid black;
-    
+/*
+section {
+    margin: 60px;
 }
 
-#hats, #jackets, #sneakers{
-    margin-bottom: 10px;
+section div {
+    display: inline-block;
 }
 
-#hats{
-/*    margin-right: 0.5px;*/
+.items-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
+
+.items-list > div {
+    padding: 10px;
+}
+
+.items-list > div > p {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.item {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    place-items: center;
+    margin: auto;
+}
+*/
